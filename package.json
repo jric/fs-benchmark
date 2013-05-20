@@ -1,0 +1,11 @@
+{
+	"name": "pdf2scribd",
+	"version": "0.0.1",
+	"dependencies": {
+		"docopt": "~0.4.0",
+		"FileQueue": "~0.1.2",
+		"swig": "~0.13.5",
+		"should": "~1.2.2",
+		"zerofill": "~0.1.0"
+	}
+}
